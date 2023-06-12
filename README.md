@@ -1,2 +1,2 @@
-# simple-speech-identifier
-the simplest voice-to-text translator
+дадада кодик нашел на ютубчике
+могу себе позволить
